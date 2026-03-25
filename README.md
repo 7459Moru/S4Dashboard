@@ -1,6 +1,6 @@
-# 7459 MORU Budget Dashboard
+# 7459 MORU S4 Dashboard
 
-A real-time LIK & SIK budget tracking dashboard for 7459 MORU unit administration. Tracks purchase requests (PRs), budget utilization, forecasts, and de-obligation reporting across all subordinate units.
+A real-time S4 tracking dashboard for 7459 MORU unit administration. Tracks purchase requests (PRs), budget utilization, forecasts, de-obligation and maintenance reporting across all subordinate units.
 
 ---
 
@@ -132,5 +132,4 @@ BO-Dashboard/
 
 ## Maintained By
 
-7459 MORU Unit Administration  
-Built with Claude (Anthropic) — March 2026
+7459 MORU Unit S4 Administration  
