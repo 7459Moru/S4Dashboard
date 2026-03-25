@@ -6,7 +6,7 @@ A real-time S4 tracking dashboard for 7459 MORU unit administration. Tracks purc
 
 ## Live Site
 
-🔗 [https://7459moru.github.io/BO-Dashboard/](https://7459moru.github.io/BO-Dashboard/](https://7459moru.github.io/S4Dashboard/)
+🔗 [https://7459moru.github.io/S4Dashboard/]
 
 ---
 
