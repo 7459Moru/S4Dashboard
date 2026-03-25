@@ -6,7 +6,7 @@ A real-time LIK & SIK budget tracking dashboard for 7459 MORU unit administratio
 
 ## Live Site
 
-🔗 [https://7459moru.github.io/BO-Dashboard/](https://7459moru.github.io/BO-Dashboard/)
+🔗 [https://7459moru.github.io/BO-Dashboard/](https://7459moru.github.io/BO-Dashboard/](https://7459moru.github.io/S4Dashboard/)
 
 ---
 
